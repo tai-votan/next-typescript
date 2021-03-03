@@ -1,0 +1,7 @@
+/lambda/
+/scripts
+/config
+.history
+/node_modules
+postcss.config.json
+next.config.js
